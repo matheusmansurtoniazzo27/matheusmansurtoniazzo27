@@ -3,4 +3,3 @@
 - 🛠️ Habilidades: Python, Git/GitHub, Ferramentas No-Code/Low-Code
 - 🌐 Idiomas: Português (Nativo), Inglês (Fluente)
 - 🚀 Buscando oportunidades em desenvolvimento de software
-- 📍 Curitiba - PR
